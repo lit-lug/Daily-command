@@ -13,3 +13,5 @@
 |  22.01.16  |  [cat](https://command.iluoli.ren/c/cat.html)  |  连接多个文件并打印到标准输出  |
 |  22.01.17  |  [less](https://command.iluoli.ren/c/less.html)  |  分屏上下翻页浏览文件内容  |
 |  22.01.18  |  [more](https://command.iluoli.ren/c/more.html)  |  显示文件内容  |
+|  22.01.19  |  [tail](https://command.iluoli.ren/c/tail.html)  |  在屏幕上显示指定文件的末尾若干行  |
+|  22.01.20  |  [grep](https://command.iluoli.ren/c/grep.html)  |  强大的文本搜索工具  |
