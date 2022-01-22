@@ -16,6 +16,10 @@
 |  22.01.19  |  [tail](https://command.iluoli.ren/c/tail.html)  |  在屏幕上显示指定文件的末尾若干行  |
 |  22.01.20  |  [grep](https://command.iluoli.ren/c/grep.html)  |  强大的文本搜索工具  |
 |  22.01.21  |  [find](https://command.iluoli.ren/c/find.html)  |  好用的文件查找工具  |
-|  22.01.22  |  [whereis](https://command.iluoli.ren/c/whereis.html)  |  查找二进制程序、代码等相关文件路径  |
-|  22.01.23  |  [which](https://command.iluoli.ren/c/which.html)  |  查找并显示给定命令的绝对路径  |
-|  22.01.24  |  [su](https://command.iluoli.ren/c/su.html)  |  用于切换当前用户身份到其他用户身份  |
+|  22.01.22  |  [gzip, zcat/zmore/zless/zgrep](https://www.litunix.org/pages/a91214/#gzip-zcat-zmore-zless-zgrep) |   压缩指令   |
+|  22.01.22  |  [bzip2, bzcat/bzmore/bzless/bzgrep](https://www.litunix.org/pages/a91214/#gzip-zcat-zmore-zless-zgrep) |  压缩指令    |
+|  22.01.22  |   |      |
+
+|  ····  |  [whereis](https://command.iluoli.ren/c/whereis.html)  |  查找二进制程序、代码等相关文件路径  |
+|  ····  |  [which](https://command.iluoli.ren/c/which.html)  |  查找并显示给定命令的绝对路径  |
+|  ····  |  [su](https://command.iluoli.ren/c/su.html)  |  用于切换当前用户身份到其他用户身份  |
