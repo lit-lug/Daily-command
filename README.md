@@ -17,9 +17,9 @@
 |  22.01.20  |  [grep](https://command.iluoli.ren/c/grep.html)  |  强大的文本搜索工具  |
 |  22.01.21  |  [find](https://command.iluoli.ren/c/find.html)  |  好用的文件查找工具  |
 |  22.01.22  |  [gzip, zcat/zmore/zless/zgrep](https://www.litunix.org/pages/a91214/#gzip-zcat-zmore-zless-zgrep) |   压缩指令   |
-|  22.01.22  |  [bzip2, bzcat/bzmore/bzless/bzgrep](https://www.litunix.org/pages/a91214/#gzip-zcat-zmore-zless-zgrep) |  压缩指令    |
-|  22.01.22  |   |      |
+|  22.01.23  |  [bzip2, bzcat/bzmore/bzless/bzgrep](https://iluoli.ren/pages/a91214/#bzip2-bzcat-bzmore-bzless-bzgrep) |  压缩指令    |
+|  22.01.24  |  [xz, xzcat/xzmore/xzless/xzgrep](https://iluoli.ren/pages/a91214/#xz-xzcat-xzmore-xzless-xzgrep)  |  压缩指令  |
+|  22.01.25  |  [tar](https://command.iluoli.ren/c/tar.html)  |  将许多文件一起保存至一个单独的磁带或磁盘归档，并能从归档中单独还原所需文件  |
+|  22.01.27  |  [chmod](https://command.iluoli.ren/c/chmod.html)  |  用来变更文件或目录的权限  |
+|  22.01.28  |  [chown](https://command.iluoli.ren/c/chown.html)  |  用来变更文件或目录的拥有者或所属群组  |
 
-|  ····  |  [whereis](https://command.iluoli.ren/c/whereis.html)  |  查找二进制程序、代码等相关文件路径  |
-|  ····  |  [which](https://command.iluoli.ren/c/which.html)  |  查找并显示给定命令的绝对路径  |
-|  ····  |  [su](https://command.iluoli.ren/c/su.html)  |  用于切换当前用户身份到其他用户身份  |
