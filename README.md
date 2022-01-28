@@ -22,5 +22,6 @@
 |  22.01.25  |  [tar](https://command.iluoli.ren/c/tar.html)  |  将许多文件一起保存至一个单独的磁带或磁盘归档，并能从归档中单独还原所需文件  |
 |  22.01.27  |  [chmod](https://command.iluoli.ren/c/chmod.html)  |  用来变更文件或目录的权限  |
 |  22.01.28  |  [chown](https://command.iluoli.ren/c/chown.html)  |  用来变更文件或目录的拥有者或所属群组  |
-|  22.01.29  |  [echo](https://command.iluoli.ren/c/echo.html)  |  输出指定的字符串或者变量  |
+|  22.01.29  |  [chgrp](https://command.iluoli.ren/c/chgrp.html)  |  用来变更文件或目录的所属群组  |
+|  22.01.30  |  [echo](https://command.iluoli.ren/c/echo.html)  |  输出指定的字符串或者变量  |
 
