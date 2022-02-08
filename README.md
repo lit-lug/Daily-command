@@ -24,5 +24,5 @@
 |  22.01.28  |  [chown](https://command.iluoli.ren/c/chown.html)  |  用来变更文件或目录的拥有者或所属群组  |
 |  22.01.29  |  [chgrp](https://command.iluoli.ren/c/chgrp.html)  |  用来变更文件或目录的所属群组  |
 |  22.01.30  |  [echo](https://command.iluoli.ren/c/echo.html)  |  输出指定的字符串或者变量  |
-|  22.02.09  |  [ps](https://command.iluoli.ren/c/ps.html)  |  报告当前系统的进程状态  |
+|  22.02.08  |  [ps](https://command.iluoli.ren/c/ps.html)  |  报告当前系统的进程状态  |
 
