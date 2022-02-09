@@ -3,6 +3,7 @@
 
 |   Date   |                           Command                            |                         Instructions                         |
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 22.02.11 |            [fortune](/command/funny-commands.md)             |                          "幸运饼干"                          |
 | 22.02.10 |            [cmatrix](/command/funny-commands.md)             |                          代码雨效果                          |
 | 22.02.10 |               [sl](/command/funny-commands.md)               |                       在终端开一辆火车                       |
 | 22.02.09 |     [history](https://command.iluoli.ren/c/history.html)     |                      显示或操作历史列表                      |
