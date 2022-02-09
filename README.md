@@ -3,7 +3,8 @@
 
 |   Date   |                           Command                            |                         Instructions                         |
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 22.02.10 |                     [sl](/command/sl.md)                     |                       在终端开一辆火车                       |
+| 22.02.10 |            [cmatrix](/command/funny-commands.md)             |                          代码雨效果                          |
+| 22.02.10 |               [sl](/command/funny-commands.md)               |                       在终端开一辆火车                       |
 | 22.02.09 |     [history](https://command.iluoli.ren/c/history.html)     |                      显示或操作历史列表                      |
 | 22.02.08 |          [ps](https://command.iluoli.ren/c/ps.html)          |                    报告当前系统的进程状态                    |
 | 22.01.30 |        [echo](https://command.iluoli.ren/c/echo.html)        |                   输出指定的字符串或者变量                   |

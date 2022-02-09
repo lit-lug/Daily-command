@@ -25,3 +25,22 @@ sl
 #起飞
 sl -F
 ```
+
+
+## cmatrix   代码雨
+
+`cmatrix` 可以在终端里面掉落各种字符，类似于电影黑客帝国中的标志形象。
+
+
+![](/command/cmatrix.gif)
+
+```
+# 安装
+sudo apt-get install cmatrix
+
+#使用
+cmatrix
+
+#终止
+# 按下Ctrl + C
+```
