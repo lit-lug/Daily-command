@@ -32,7 +32,7 @@ sl -F
 `cmatrix` 可以在终端里面掉落各种字符，类似于电影黑客帝国中的标志形象。
 
 
-![](/command/cmatrix.gif)
+![](/images/cmatrix.gif)
 
 ```
 # 安装
