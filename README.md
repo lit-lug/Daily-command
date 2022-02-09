@@ -3,6 +3,7 @@
 
 |   Date   |                           Command                            |                         Instructions                         |
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 22.02.10 |                     [sl](/command/sl.md)                     |                       在终端开一辆火车                       |
 | 22.02.09 |     [history](https://command.iluoli.ren/c/history.html)     |                      显示或操作历史列表                      |
 | 22.02.08 |          [ps](https://command.iluoli.ren/c/ps.html)          |                    报告当前系统的进程状态                    |
 | 22.01.30 |        [echo](https://command.iluoli.ren/c/echo.html)        |                   输出指定的字符串或者变量                   |
@@ -26,4 +27,5 @@
 | 22.01.11 |       [mkdir](https://command.iluoli.ren/c/mkdir.html)       |                           创建目录                           |
 | 22.01.10 |          [cd](https://command.iluoli.ren/c/cd.html)          |                     切换用户当前工作目录                     |
 | 22.01.09 |          [ls](https://command.iluoli.ren/c/ls.html)          |                       显示目录内容列表                       |
+|          |                                                              |                                                              |
 
